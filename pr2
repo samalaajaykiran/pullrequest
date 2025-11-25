@@ -1,9 +1,16 @@
 # This is my java helloworld code #
 
+
+#it is comment line#
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
 
+# This is my java helloworld code #
+
+
+#it is also a comment line#
 # This is my java helloworld code #
