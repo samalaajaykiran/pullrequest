@@ -10,3 +10,5 @@ System.out.println("Iteration: " + i);
         }
     }
 }
+
+# This is java loop code #
